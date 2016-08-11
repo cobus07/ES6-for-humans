@@ -2,6 +2,10 @@
 
 <br>
 
+最前面先附上小胡子哥的翻译吧~
+
+http://www.barretlee.com/blog/2016/07/09/a-kickstarter-guide-to-writing-es6/
+
 ### Table of Contents
 
 * [`let`, `const` and block scoping](#1-let-const-and-block-scoping)
